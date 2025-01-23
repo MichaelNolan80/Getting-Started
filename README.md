@@ -12,7 +12,7 @@ Skills Learned
 Each chapter will teach a new skill. Each chapter will have its own page and write up. 
 
 
-Chapter 4 - <a href="https://github.com/MichaelNolan80/Getting-Started/tree/main">Building a Hacking VertualLab.</a> 
+Chapter 4 - <a href="https://github.com/MichaelNolan80/MH-CH4">Building a Hacking VertualLab.</a> 
               Lets start by building a vertual Lab, here I will be using WM ware, installing Kali Linus, Windows 7 and Meterspliote. 
 
 

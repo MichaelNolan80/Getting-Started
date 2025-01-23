@@ -18,18 +18,12 @@ Chapter 4 - <a href="https://github.com/MichaelNolan80/MH-CH4">Building a Hackin
 
 Chapter 5 - <a href="https://github.com/MichaelNolan80/MH-CH4">Passive Reconnanissance.</a> 
 --
-   Lets gain and much infomation about the tarket with out interacting with them.
+   Lets gain and much infomation about the target with out interacting with them.
             
+Chapter 6 - <a href="https://github.com/MichaelNolan80/MH-AR6">Active Reconnanissance.</a> 
+--
+   Lets gain and much infomation about the tarket with out interacting with them.
 
-
-Security Information and Event Management (SIEM) system for log ingestion and analysis.
-Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-Telemetry generation tools to create realistic network traffic and attack scenarios.
-Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-Ref 1: Network Diagram
+Chapter 7 - <a href="https://github.com/MichaelNolan80/MH-FV7">Finding Vulnerabilities.</a> 
+--
+   Lets gain and much infomation about the tarket with out interacting with them.

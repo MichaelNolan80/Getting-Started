@@ -1,24 +1,20 @@
 ( Need changing ) 
 # Getting-Started
-Documenting the steps taken to follow Occupy the Web and his book 'Getting Started Becoming a Master Hacker. 
+Here I will be ocumenting the steps taken to follow Occupy the Web and his book 'Getting Started Becoming a Master Hacker.
+What Challanges I have and what I learn along the way. 
 
-#PROJECTNAME
 
 Objective
-[Brief Objective - Remove this afterwards]
-
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+Following this book will teach me steps that will help me learn and understand the steps taken to become an ethical hacker. 
+This will concintrate on the Labs that are in the book over the theary. 
 
 Skills Learned
-[Bullet Points - Remove this afterwards]
+Each chapter will teach a new skill. Each chapter will have its own page and write up. 
 
-Advanced understanding of SIEM concepts and practical application.
-Proficiency in analyzing and interpreting network logs.
-Ability to generate and recognize attack signatures and patterns.
-Enhanced knowledge of network protocols and security vulnerabilities.
-Development of critical thinking and problem-solving skills in cybersecurity.
-Tools Used
-[Bullet Points - Remove this afterwards]
+
+Chapter 4 - <a href="https://github.com/MichaelNolan80/Getting-Started/tree/main">Building a Hacking VertualLab.</a> 
+              Lets start by building a vertual Lab, here I will be using WM ware, installing Kali Linus, Windows 7 and Meterspliote. 
+
 
 Security Information and Event Management (SIEM) system for log ingestion and analysis.
 Network analysis tools (such as Wireshark) for capturing and examining network traffic.

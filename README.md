@@ -15,11 +15,11 @@ Each chapter will teach a new skill. Each chapter will have its own page and wri
 Chapter 4 - <a href="https://github.com/MichaelNolan80/MH-CH4">Building a Hacking VertualLab.</a> 
 --
   Lets start by building a vertual Lab, here I will be doing the folowing 
-        - Downloading Kali Linux,
-        - Installing VMware Vertual Machine
-        - Installing Kali onto VMware
-        - Installing the target systems in Metasploitable 2 and Windows 7
-        - Installing Mysql and creating a symple database. 
+        - Item 1 Downloading Kali Linux,
+        - Item 2 Installing VMware Vertual Machine
+        - Item 3 Installing Kali onto VMware
+        - Item 4 Installing the target systems in Metasploitable 2 and Windows 7
+        - Item 5 Installing Mysql and creating a symple database. 
 
 Chapter 5 - <a href="https://github.com/MichaelNolan80/MH-PR">Passive Reconnanissance.</a> 
 -

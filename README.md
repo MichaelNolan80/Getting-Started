@@ -14,7 +14,7 @@ Each chapter will teach a new skill. Each chapter will have its own page and wri
 
 Chapter 4 - <a href="https://github.com/MichaelNolan80/MH-CH4">Building a Hacking VertualLab.</a> 
 --
-  Lets start by building a vertual Lab, here I will be doing the folowing 
+  Lets start by building a vertual Lab, here I will be doing the following 
   
 - **Downloading Kali Linux**
 - **Installing VMware Vertual Machine**

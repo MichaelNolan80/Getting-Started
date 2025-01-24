@@ -12,7 +12,7 @@ Skills Learned
 Each chapter will teach a new skill. Each chapter will have its own page and write up. 
 
 
-Chapter 4 - <a href="https://github.com/MichaelNolan80/MH-CH4">Building a Hacking VertualLab.</a> 
+Chapter 4 - <a href="https://github.com/MichaelNolan80/MH-CH4">Building a Hacking Virtual Lab.</a> 
 --
   Lets start by building a vertual Lab, here I will be doing the following 
   

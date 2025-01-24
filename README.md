@@ -16,11 +16,11 @@ Chapter 4 - <a href="https://github.com/MichaelNolan80/MH-CH4">Building a Hackin
 --
   Lets start by building a vertual Lab, here I will be doing the folowing 
   
-1.Downloading Kali Linux,
-2.Installing VMware Vertual Machine,
-3.Installing Kali onto VMware,
-4.Installing the target systems in Metasploitable 2 and Windows 7,
-5.Installing Mysql and creating a symple database. 
+- **Downloading Kali Linux**
+- **Installing VMware Vertual Machine**
+- **Installing Kali onto VMware**
+- **Installing the target systems in Metasploitable 2 and Windows 7**
+- **Installing Mysql and creating a symple database**
 
 Chapter 5 - <a href="https://github.com/MichaelNolan80/MH-PR">Passive Reconnanissance.</a> 
 -

@@ -24,7 +24,13 @@ Chapter 4 - <a href="https://github.com/MichaelNolan80/MH-CH4">Building a Hackin
 
 Chapter 5 - <a href="https://github.com/MichaelNolan80/MH-PR">Passive Reconnanissance.</a> 
 -
-   Lets gain and much infomation about the target with out interacting with them.
+   Lets gain as much infomation about the target with out interacting with them.
+   Tools we will use in this sction are - 
+- **Google Hacking**
+- **Netcraft**
+- **shodan**
+- **DNS**
+- **p0F**
             
 Chapter 6 - <a href="https://github.com/MichaelNolan80/MH-AR6">Active Reconnanissance.</a> 
 --
